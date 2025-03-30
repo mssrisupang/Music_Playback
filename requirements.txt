@@ -1,0 +1,6 @@
+numpy
+sounddevice
+soundfile
+matplotlib
+aubio
+pydub
